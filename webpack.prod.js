@@ -38,7 +38,7 @@ module.exports = {
                         limit: 8192, // будет использоваться file-loader
                     },
                 // отключите image-webpack-loader, если не собирается
-                }, 'image-webpack-loader'],
+                }],
             },
             {
                 test: /\.html$/,
