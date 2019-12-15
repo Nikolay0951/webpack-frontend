@@ -1,1 +1,1 @@
-Webpack Project
+Webpack Project [![Build Status](https://travis-ci.org/Nikolay0951/webpack-frontend.svg?branch=master)](https://travis-ci.org/Nikolay0951/webpack-frontend)
